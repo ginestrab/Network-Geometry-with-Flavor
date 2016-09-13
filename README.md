@@ -1,6 +1,6 @@
 # Network-Geometry-with-Flavor
 
-********Network Geomerty with flavor**********
+********Network Geometry with flavor**********
 
 This data reposititory contains 4 MATLAB codes:
 
