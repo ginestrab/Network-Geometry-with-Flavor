@@ -20,6 +20,13 @@ generates a Network Geometry with Flavor of dimension 3
 
 generates a Network Geometry with Flavor of dimension 4
 
+5) NGF_d_simplex
+
+ generates a  d-dimensional Network Geometry with Flavor built by d-dimensional simplices.
+ 
+For programs generating Network Geometry with Flavor with hypercubes or orthoplex
+see the repository Network Geometry and Complexity
+
 These programs are distributed by the authors in the hope that it will be 
 useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -32,3 +39,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
  (c)  Christoph Rahmede (c.rahmede@kit.edu)
      Ginestra Bianconi (g.bianconi@qmul.ac.uk)  
+     
+  
